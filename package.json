@@ -8,6 +8,7 @@
     "url": "https://github.com/ro-savage/nodebots-workshop"
   },
   "dependencies": {
+    "dnode": "^1.2.2",
     "johnny-five": "^0.9.1",
     "nodebot-workshop": "^2.2.6"
   },
