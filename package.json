@@ -1,0 +1,17 @@
+{
+  "name": "Nodebots-workshop-examples",
+  "version": "0.0.1",
+  "description": "Examples",
+  "author": "Rowan Savage",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ro-savage/nodebots-workshop"
+  },
+  "dependencies": {
+    "johnny-five": "^0.9.1",
+    "nodebot-workshop": "^2.2.6"
+  },
+  "devDependencies": {},
+  "engine": "node >= 0.12.7",
+  "license": "MIT"
+}
